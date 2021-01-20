@@ -7,7 +7,7 @@ I am Rafaela, a software developer passionate about learning new technologies, c
 <a href="#"><img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200 " height="200" /></a>
 
 - 🔭 I’m currently working on nice things :D
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning Java and Spring
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about: ReactJS
 - 📫 How to reach me: by email or LinkedIn
