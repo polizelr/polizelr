@@ -2,14 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-f53505?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelapolizel)](https://www.linkedin.com/in/rafaelapolizel)
 
-I am Rafaela, a software developer passionate about learning new technologies, coca-cola, and my cat.
+I am Rafaela, a data engineer passionate about learning new technologies, coca-cola, and my cat.
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200 " height="200" /></a>
 
 - 🔭 I’m currently working on nice things :D
-- 🌱 I’m currently learning Java and Spring
+- 🌱 I’m currently learning Deep & Reinforcement Learning
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about: ReactJS
+- 💬 Ask me about: Python, Hadoop
 - 📫 How to reach me: by email or LinkedIn
 - 😄 Pronouns: she, her
 <!-- ⚡ Fun fact: ... --> 
@@ -19,18 +19,14 @@ I am Rafaela, a software developer passionate about learning new technologies, c
 
 ### :wrench: Languages and Tools
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET" width="25" height="25"></code>
-<code><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="25" height="25"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="Hadoop" width="25" height="25"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="25" height="25"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="25" height="25"></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="25" height="25"></code>
+<code><img src="https://www.nclouds.com/wp-content/uploads/2023/05/glue.png" alt="Glue" width="25" height="25"></code>
+
+
 <br/>
 <br/>
   
